@@ -1,0 +1,11 @@
+C:\Users\Temir Gasimov\source\repos\TestProject\bin\Debug\netcoreapp3.1\TestProject.exe
+C:\Users\Temir Gasimov\source\repos\TestProject\bin\Debug\netcoreapp3.1\TestProject.deps.json
+C:\Users\Temir Gasimov\source\repos\TestProject\bin\Debug\netcoreapp3.1\TestProject.runtimeconfig.json
+C:\Users\Temir Gasimov\source\repos\TestProject\bin\Debug\netcoreapp3.1\TestProject.runtimeconfig.dev.json
+C:\Users\Temir Gasimov\source\repos\TestProject\bin\Debug\netcoreapp3.1\TestProject.dll
+C:\Users\Temir Gasimov\source\repos\TestProject\bin\Debug\netcoreapp3.1\TestProject.pdb
+C:\Users\Temir Gasimov\source\repos\TestProject\obj\Debug\netcoreapp3.1\TestProject.csprojAssemblyReference.cache
+C:\Users\Temir Gasimov\source\repos\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfoInputs.cache
+C:\Users\Temir Gasimov\source\repos\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfo.cs
+C:\Users\Temir Gasimov\source\repos\TestProject\obj\Debug\netcoreapp3.1\TestProject.dll
+C:\Users\Temir Gasimov\source\repos\TestProject\obj\Debug\netcoreapp3.1\TestProject.pdb
